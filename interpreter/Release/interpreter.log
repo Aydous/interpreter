@@ -1,0 +1,4 @@
+﻿  interpreter.cpp
+e:\解释器实验\interpreter\interpreter\interpreter.cpp(5): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  lex.cpp
+e:\解释器实验\interpreter\interpreter\lex.cpp(160): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
