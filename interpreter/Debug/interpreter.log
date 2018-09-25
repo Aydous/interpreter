@@ -1,2 +1,5 @@
-﻿  lex.cpp
+﻿  ast.cpp
+e:\解释器实验\interpreter\interpreter\ast.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+  lex.cpp
+  正在生成代码...
   interpreter.vcxproj -> E:\解释器实验\interpreter\Debug\interpreter.exe

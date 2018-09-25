@@ -135,6 +135,7 @@ void analyse(FILE*fpin) {
 		}
 	}
 }
+/*
 int main() {
 	char inFile[40];
 	FILE*fpin;
@@ -151,4 +152,4 @@ int main() {
 	cout << "-----词法分析如下-------" << endl;
 	analyse(fpin);
 	return 0;
-}
+}*/
