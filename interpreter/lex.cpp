@@ -70,7 +70,7 @@ void analyse(FILE*fpin) {
 		arr = "";
 		if(IsFilter(ch)){}
 		else if (IsLowLetter(ch)) {
-			while (IsLowLetter(ch))
+			while (IsLowLetter(ch)||IsUpLetter(ch))
 			{
 				arr += ch;
 				ch = fgetc(fpin);
